@@ -9,7 +9,7 @@ Various mathematical models like the MA, AR, ARMA and ARIMA were explored to che
 
 Influence and presence of stationarity, seasonality and trends was analysed in the above models and the concept of differencing was introduced.
 
-After figuring out the order of the model that fits the data, various parameters of the model were calculated using computation, and forecasts were made by calculating the expected value of time-series at a time in the future by using the data we have.
+After figuring out the order of the model that fits the data, various parameters of the model were calculated using machine learning computation, and forecasts were made by calculating the expected value of time-series at a time in the future by using the data we have.
 
 ## Acknowledgements
 
